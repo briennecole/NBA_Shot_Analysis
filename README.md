@@ -1,5 +1,5 @@
 # NBA_Shot_Analysis
-- Group 3 Project Proposal
+## Group 3 Project Proposal
 - Project Title: NBA SHOT ANALYSIS (working title)
 - Members: Charlie Loveall, Pete Johnson, Brienne Cole, Chelsea Chaussee
 - Project Description/Outline:
