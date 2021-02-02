@@ -8,7 +8,8 @@
 - Rough breakdown of tasks: Brienne – git repo creater
 
 
-### Project Ideas: weather/game attendance
+### Project Ideas:
+- Weather/game attendance
 - Jersey sales/ team home schedule
 - Shot clock data, lots of ideas:
 	1. Success rate vs time on clock
