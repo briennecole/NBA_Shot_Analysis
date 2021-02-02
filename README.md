@@ -5,7 +5,7 @@
 - Project Description/Outline:
 - Research Questions to Answer:
 - Datasets to be used: shot_logs.csv from Kaggle
-- Rough breakdown of tasks: Brienne – git repo creater
+- Rough breakdown of tasks: Brienne – git repo creator
 
 
 ### Project Ideas:
