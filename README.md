@@ -30,3 +30,8 @@
 - Defender distance
 	- Null: Defender distance does not affect success rate.
 	- Alternative: As defender distance increases, shot success rate increases.
+	
+
+## Notes
+----------------------
+- shot clock rule changed in 2018-2019 season for offensive rebounds: clock reset changed from 24 to 14 seconds.
