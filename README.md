@@ -21,3 +21,12 @@
 		- 2pt distance vs success rate
 		- 3pt distance vs success rate
 		- Game clock vs success rate
+
+### Hypotheses
+- Shot Clock vs. Success Rate
+	- Null: No relation between shot clock and success rate
+	- Alternative: With 5 seconds or less the reduction in success rate of any shot is statistically significant 
+
+- Defender distance
+	- Null: Defender distance does not affect success rate.
+	- Alternative: As defender distance increases, shot success rate increases.
