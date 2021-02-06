@@ -33,5 +33,5 @@
 	
 
 ## Notes
-# ----------------------
+#----------------------
 - shot clock rule changed in 2018-2019 season for offensive rebounds: clock reset changed from 24 to 14 seconds.
